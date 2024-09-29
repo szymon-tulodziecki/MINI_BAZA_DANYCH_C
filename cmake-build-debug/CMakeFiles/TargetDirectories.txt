@@ -1,0 +1,3 @@
+C:/Users/tulod/Desktop/mini baza danych/cmake-build-debug/CMakeFiles/mini_baza_danych.dir
+C:/Users/tulod/Desktop/mini baza danych/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tulod/Desktop/mini baza danych/cmake-build-debug/CMakeFiles/rebuild_cache.dir
