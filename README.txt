@@ -18,5 +18,5 @@ Mini Baza Danych Laptopów to aplikacja stworzona w języku C, która umożliwia
 ## Instalacja
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoje_konto/twoje_repozytorium.git
+   git clone https://github.com/szymon-tulodziecki/Mini-Baza-Danych.git
    cd twoje_repozytorium
